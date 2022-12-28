@@ -1,0 +1,4 @@
+RUN	simulations.DeleteUserSimulation	deleteusersimulation	1672122121094	testRun	3.5.1
+USER	Delete User Scenario	START	1672122122733
+REQUEST		Delete User Request	1672122122756	1672122123388	OK	 
+USER	Delete User Scenario	END	1672122123432

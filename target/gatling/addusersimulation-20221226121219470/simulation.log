@@ -1,0 +1,4 @@
+RUN	simulations.AddUserSimulation	addusersimulation	1672056739470	TestRun	3.5.1
+USER	Add User	START	1672056740664
+REQUEST		Add User Request	1672056740686	1672056741301	OK	 
+USER	Add User	END	1672056741330

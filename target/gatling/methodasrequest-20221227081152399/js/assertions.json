@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.MethodAsRequest",
+  "simulationId": "methodasrequest",
+  "start": 1672128712399,
+  "description": "TestRun",
+  "scenarios": ["User Request Scenarios"],
+  "assertions": [
+
+  ]
+}

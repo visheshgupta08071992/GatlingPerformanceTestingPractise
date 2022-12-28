@@ -1,0 +1,7 @@
+RUN	simulations.DataFeederCSV	datafeedercsv	1672132230796	tyie	3.5.1
+USER	Data Feder scenario	START	1672132232057
+REQUEST		Get single user request	1672132232108	1672132232532	KO	jsonPath($.data.name).find.is(Amish Bhattacharya), but actually found nothing
+REQUEST		Get single user request	1672132232615	1672132232768	OK	 
+REQUEST		Get single user request	1672132232772	1672132232899	OK	 
+REQUEST		Get single user request	1672132232901	1672132233010	KO	status.find.is(200), but actually found 304
+USER	Data Feder scenario	END	1672132233014

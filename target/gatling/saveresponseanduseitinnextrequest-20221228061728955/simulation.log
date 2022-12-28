@@ -1,0 +1,5 @@
+RUN	simulations.SaveResponseAndUseItInNextRequest	saveresponseanduseitinnextrequest	1672208248955	testrun	3.5.1
+USER	Add User and Then Get users	START	1672208250468
+REQUEST		Add User Request 1	1672208250490	1672208251147	OK	 
+REQUEST		Add User Request 2	1672208254192	1672208254607	OK	 
+USER	Add User and Then Get users	END	1672208254611

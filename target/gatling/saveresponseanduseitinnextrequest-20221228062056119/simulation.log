@@ -1,0 +1,5 @@
+RUN	simulations.SaveResponseAndUseItInNextRequest	saveresponseanduseitinnextrequest	1672208456119	ters	3.5.1
+USER	Add User and Then Get users	START	1672208457364
+REQUEST		Add User Request 1	1672208457385	1672208458076	OK	 
+REQUEST		Add User Request 2	1672208461123	1672208461534	OK	 
+USER	Add User and Then Get users	END	1672208461608

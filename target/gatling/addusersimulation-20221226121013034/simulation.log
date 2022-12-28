@@ -1,0 +1,4 @@
+RUN	simulations.AddUserSimulation	addusersimulation	1672056613034	TestRun	3.5.1
+USER	Add User	START	1672056615747
+REQUEST		Add User Request	1672056615785	1672056616474	KO	status.find.is(200), but actually found 201
+USER	Add User	END	1672056616511

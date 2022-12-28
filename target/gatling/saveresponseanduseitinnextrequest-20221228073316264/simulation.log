@@ -1,0 +1,5 @@
+RUN	simulations.SaveResponseAndUseItInNextRequest	saveresponseanduseitinnextrequest	1672212796264	sede	3.5.1
+USER	Add User and Then Get users	START	1672212797749
+REQUEST		Add User Request 1	1672212797774	1672212798429	OK	 
+REQUEST		Add User Request 2	1672212801475	1672212801894	OK	 
+USER	Add User and Then Get users	END	1672212801969

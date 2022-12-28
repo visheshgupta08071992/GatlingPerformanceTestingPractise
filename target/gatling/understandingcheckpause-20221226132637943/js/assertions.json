@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.UnderstandingCheckPause",
+  "simulationId": "understandingcheckpause",
+  "start": 1672061197943,
+  "description": "testRun",
+  "scenarios": ["User API Calls"],
+  "assertions": [
+
+  ]
+}

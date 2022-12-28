@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.AddUserSimulation",
+  "simulationId": "addusersimulation",
+  "start": 1672056613034,
+  "description": "TestRun",
+  "scenarios": ["Add User"],
+  "assertions": [
+
+  ]
+}

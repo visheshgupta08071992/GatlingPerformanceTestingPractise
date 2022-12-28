@@ -1,0 +1,8 @@
+RUN	simulations.HitPostRequestforRandomData	hitpostrequestforrandomdata	1672210040927	tyg	3.5.1
+USER	Add User using StringBody	START	1672210042140
+REQUEST		Add User Request 2	1672210042167	1672210042777	KO	jsonPath($.name).find.is(hGWsnE), but actually found dxhPbI
+REQUEST		Add User Request 2	1672210042851	1672210043256	KO	jsonPath($.name).find.is(hGWsnE), but actually found dxhPbI
+REQUEST		Add User Request 2	1672210043262	1672210043684	KO	jsonPath($.name).find.is(hGWsnE), but actually found dxhPbI
+REQUEST		Add User Request 2	1672210043688	1672210044107	KO	jsonPath($.name).find.is(hGWsnE), but actually found dxhPbI
+REQUEST		Add User Request 2	1672210044109	1672210044511	KO	jsonPath($.name).find.is(hGWsnE), but actually found dxhPbI
+USER	Add User using StringBody	END	1672210044520

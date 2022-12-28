@@ -1,0 +1,8 @@
+RUN	simulations.HitPostRequestforRandomData	hitpostrequestforrandomdata	1672209862086	testrun	3.5.1
+USER	Add User using StringBody	START	1672209863591
+REQUEST		Add User Request 2	1672209863619	1672209864272	KO	jsonPath($.name).find.is(leader), but actually found $randomString(6)
+REQUEST		Add User Request 2	1672209864369	1672209864789	KO	jsonPath($.name).find.is(leader), but actually found $randomString(6)
+REQUEST		Add User Request 2	1672209864797	1672209865195	KO	jsonPath($.name).find.is(leader), but actually found $randomString(6)
+REQUEST		Add User Request 2	1672209865199	1672209865624	KO	jsonPath($.name).find.is(leader), but actually found $randomString(6)
+REQUEST		Add User Request 2	1672209865627	1672209866027	KO	jsonPath($.name).find.is(leader), but actually found $randomString(6)
+USER	Add User using StringBody	END	1672209866039

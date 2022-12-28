@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.HitPostRequestforRandomData",
+  "simulationId": "hitpostrequestforrandomdata",
+  "start": 1672209862086,
+  "description": "testrun",
+  "scenarios": ["Add User using StringBody"],
+  "assertions": [
+
+  ]
+}

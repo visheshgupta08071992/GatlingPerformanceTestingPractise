@@ -1,0 +1,5 @@
+RUN	simulations.CheckResponseAndExtractData	checkresponseandextractdata	1672122243944	testRun	3.5.1
+USER	Check Correlation and extract data	START	1672122245103
+REQUEST		Get all Users Request	1672122245122	1672122245584	OK	 
+REQUEST		Get Specific User Request	1672122248689	1672122248814	OK	 
+USER	Check Correlation and extract data	END	1672122248818

@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.DataFeederCSV",
+  "simulationId": "datafeedercsv",
+  "start": 1672132477407,
+  "description": "tyr",
+  "scenarios": ["Data Feder scenario"],
+  "assertions": [
+
+  ]
+}

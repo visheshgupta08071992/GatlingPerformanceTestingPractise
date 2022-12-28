@@ -1,0 +1,4 @@
+RUN	simulations.UseStringToSendJsonInPostRequest	usestringtosendjsoninpostrequest	1672208602658	test	3.5.1
+USER	Add User and Then Get users	START	1672208604166
+REQUEST		Add User Request 2	1672208604189	1672208604819	OK	 
+USER	Add User and Then Get users	END	1672208604887

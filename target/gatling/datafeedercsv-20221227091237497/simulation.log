@@ -1,0 +1,7 @@
+RUN	simulations.DataFeederCSV	datafeedercsv	1672132357497	test	3.5.1
+USER	Data Feder scenario	START	1672132358721
+REQUEST		Get single user request	1672132358767	1672132359150	OK	 
+REQUEST		Get single user request	1672132359238	1672132359448	OK	 
+REQUEST		Get single user request	1672132359450	1672132359585	OK	 
+REQUEST		Get single user request	1672132359587	1672132359794	KO	status.find.is(200), but actually found 304
+USER	Data Feder scenario	END	1672132359808

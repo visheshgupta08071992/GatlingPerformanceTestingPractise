@@ -1,0 +1,5 @@
+RUN	simulations.CheckResponseAndExtractData	checkresponseandextractdata	1672132159427	yty	3.5.1
+USER	Check Correlation and extract data	START	1672132161245
+REQUEST		Get all Users Request	1672132161267	1672132161713	OK	 
+REQUEST		Get Specific User Request	1672132164797	1672132164962	KO	jsonPath($.data.id).find.is(5298), but actually found 5259
+USER	Check Correlation and extract data	END	1672132164975

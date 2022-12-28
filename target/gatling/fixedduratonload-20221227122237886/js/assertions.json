@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.FixedDuratonLoad",
+  "simulationId": "fixedduratonload",
+  "start": 1672143757886,
+  "description": "testRun",
+  "scenarios": ["Get User"],
+  "assertions": [
+
+  ]
+}

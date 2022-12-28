@@ -1,0 +1,5 @@
+RUN	simulations.CheckResponseAndExtractData	checkresponseandextractdata	1672121946913	testRun	3.5.1
+USER	Check Correlation and extract data	START	1672121948803
+REQUEST		Get all Users Request	1672121948828	1672121949248	KO	status.find.is(201), but actually found 200
+REQUEST		Get Specific User Request	1672121952348	1672121952525	KO	jsonPath($.data[0].id).find.is(5298), but actually found nothing
+USER	Check Correlation and extract data	END	1672121952538

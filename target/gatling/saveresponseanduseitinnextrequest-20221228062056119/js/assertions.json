@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SaveResponseAndUseItInNextRequest",
+  "simulationId": "saveresponseanduseitinnextrequest",
+  "start": 1672208456119,
+  "description": "ters",
+  "scenarios": ["Add User and Then Get users"],
+  "assertions": [
+
+  ]
+}

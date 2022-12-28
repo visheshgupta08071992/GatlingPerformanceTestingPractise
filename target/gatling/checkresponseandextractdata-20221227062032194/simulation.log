@@ -1,0 +1,5 @@
+RUN	simulations.CheckResponseAndExtractData	checkresponseandextractdata	1672122032194	testRun	3.5.1
+USER	Check Correlation and extract data	START	1672122033367
+REQUEST		Get all Users Request	1672122033384	1672122033772	KO	status.find.is(201), but actually found 200
+REQUEST		Get Specific User Request	1672122036881	1672122036995	OK	 
+USER	Check Correlation and extract data	END	1672122037004
